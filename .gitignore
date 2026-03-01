@@ -1,0 +1,7 @@
+.DS_Store
+venv/
+__pycache__/
+*.pyc
+method_a_v2_checkpoint.csv
+method_b_checkpoint.csv
+method_c_checkpoint.csv
