@@ -1,0 +1,7 @@
+gradio==4.44.0
+transformers==4.40.0
+torch==2.2.0
+rank_bm25==0.2.2
+wikipedia==1.4.0
+numpy==1.26.0
+pandas==2.2.0
